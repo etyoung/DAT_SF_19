@@ -1,0 +1,5 @@
+####Eric Young
+####Course Project Question and Data Set Milestone
+####12/16/15
+
+I'm planning on predicting box office results based on movie features such as rating, runtime, genre, Metacritic scores, IMDb ratings, Rotten Tomatoes ratings, and production budgets. I am using a very large data set from the Open Movie Database and a data set of box office results pulled from a website or scraped from Box Office Mojo. I know the two data sets will need to be joined and constrained to a more recent time period to make the prediction more relevant. I chose this topic because I enjoy movies quite a bit and wanted to use available data to make a fun prediction.   
